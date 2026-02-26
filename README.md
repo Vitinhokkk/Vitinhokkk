@@ -25,13 +25,13 @@
 
 ## 💼 Experiencias profissionais 
 
-- **Jovem aprendiz - Carrera cherolet** (01/2025- 09/2025)  
-   <P> Ajudava na area de suporte ao cliente<P>
-   <P> Ajudava na area de funilaria da empresa</P> 
-
-- **Estagiario Superior - Tribunal de Justica** (09/2025– previsao 06/2026)  
+-  **Estagiario Superior - Tribunal de Justica** (09/2025– previsao 06/2026)  
    <P>Desenvolver trabalhos em grupo para ajudar a solucionar problemas ao usuario</P>
    <P>Suporte tecnico, atendendo chamados ao cliente</P>
+   
+ - **Jovem aprendiz - Carrera cherolet** (01/2025- 09/2025)  
+   <P> Ajudava na area de suporte ao cliente<P>
+   <P> Ajudava na area de funilaria da empresa</P> 
 
 ## 🛠️ Tech Stack
 
