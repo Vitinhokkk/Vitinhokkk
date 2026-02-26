@@ -74,8 +74,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vitor-luiz-32a157240)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitigmes@mail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-luiz-32a157240)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitigmes@mail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitinhokkk)
 
 </div>
@@ -87,10 +87,10 @@
 ### ⭐ Se meus projetos ajudaram você, considere dar uma estrela!
 ### ⭐ If my projects helped you, please consider giving them a star!
 
-![Followers](https://img.shields.io/github/followers/007will?style=social)
-![Stars](https://img.shields.io/github/stars/007will?style=social)
+![Followers](https://img.shields.io/github/followers/Vitinhokkk?style=social)
+![Stars](https://img.shields.io/github/stars/Vitinhokkk?style=social)
 
-![Profile Views](https://komarev.com/ghpvc/?username=007will&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Vitinhokkk&color=blue&style=flat)
 
 </div>
 
