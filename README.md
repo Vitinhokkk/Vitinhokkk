@@ -25,14 +25,20 @@
 
 ## 💼 Experiencias profissionais 
 
--  **Estagiario Superior - Tribunal de Justica** (09/2025– previsao 06/2026)  
-   <P>Desenvolver trabalhos em grupo para ajudar a solucionar problemas ao usuario</P>
-   <P>Suporte tecnico, atendendo chamados ao cliente</P>
+-  **Estagiário de TI, Superior Tribunal de Justiça, Brasília
+** (09/2025– previsao 06/2026)  
+  <p> •  Atendimento a usuários e suporte técnico, com registro, triagem e
+acompanhamento de chamados.</p>
+<p>•  Colaboração em equipe para diagnóstico e resolução de incidentes, contribuindo
+para a continuidade das operações.</p>
+<p>•  Apoio na organização das demandas e na comunicação clara com os usuários</p>
    
  - **Jovem aprendiz - Carrera cherolet** (01/2025- 09/2025)  
-   <P> Ajudava na area de suporte ao cliente<P>
-   <P> Ajudava na area de funilaria da empresa</P> 
-
+ <p>•  Apoio ao atendimento ao cliente e às rotinas administrativas da empresa.</p>
+<p>•  Suporte às atividades da área de funilaria, colaborando com a organização e o
+andamento das demandas.</p>
+<p>•  Atuação em equipe, com comunicação respeitosa e foco na resolução de
+problemas do dia a dia.</p>
 ## 🛠️ Tech Stack
 
 **Automation & Testing:**  
