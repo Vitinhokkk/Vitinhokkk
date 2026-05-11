@@ -21,7 +21,13 @@
 
 ## 📋 About Me - Sobre Mim
 
-<P>Desenvolvedor Back-end e Analista de Dados com sólida base em infraestrutura, movido pelo desafio de transformar dados brutos em soluções escaláveis. Sou um profissional dedicado à excelência técnica, com facilidade para aprender novas tecnologias e aplicar esforço contínuo na otimização de sistemas. Tenho foco total na entrega de resultados robustos, garantindo que o código, o banco de dados e o servidor operem em perfeita sintonia para o sucesso do negócio<P>
+<P>Desenvolvedor Backend com 2 anos de experiência em TI, especializado em Python
+(Django, Flask), Node.js e desenvolvimento de APIs REST. Atuação prática em análise
+de dados, bancos SQL/NoSQL e em projetos como APIs de gestão de tarefas,
+dashboards de análise de dados e sistemas de chamados; familiaridade com Git e
+boas práticas de desenvolvimento. Profissional proativo, comunicativo e orientado à
+resolução de problemas, cursando Análise e Desenvolvimento de Sistemas (UDF) e em
+busca de oportunidades para aplicar e ampliar conhecimentos em backend e dados.<P>
 
 ## 💼 Experiencias profissionais 
 
