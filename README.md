@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Analista%20de=Dados&fontSize=80&fontAlignY=35&desc=Test%20Automation%20•%20API%20Testing%20•%20CI/CD&descAlignY=51&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=260&section=header&text=Analista%20de%20Dados&fontSize=58&fontAlignY=38&desc=Python%20•%20SQL%20•%20Power%20BI%20•%20Machine%20Learning&descAlignY=58&descSize=22)
 
 </div>
 
