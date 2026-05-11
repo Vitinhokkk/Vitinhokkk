@@ -25,8 +25,7 @@
 
 ## 💼 Experiencias profissionais 
 
--  **Estagiário de TI, Superior Tribunal de Justiça, Brasília
-** (09/2025– previsao 06/2026)  
+ **Estagiário de TI, Superior Tribunal de Justiça, Brasília**  
   <p> •  Atendimento a usuários e suporte técnico, com registro, triagem e
 acompanhamento de chamados.</p>
 <p>•  Colaboração em equipe para diagnóstico e resolução de incidentes, contribuindo
